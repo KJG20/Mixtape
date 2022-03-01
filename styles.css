@@ -56,7 +56,7 @@ p{
   text-align: center;
 }
 
-@media only screen and (min-width: 700px) {
+@media screen and (min-width: 700px){
   /* Styles for desktop go here */
   .wrapper{
     width:50%;
